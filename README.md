@@ -24,17 +24,16 @@ This project performs web server log analytics using the Hadoop ecosystem, mainl
 
 ## Dataset Summary
 
-The project dataset contains **1,422 records**.
+| Parameter          |                                                Value |
+| ------------------ | ---------------------------------------------------: |
+| **Total records**  |                                            **1,422** |
+| **GET requests**   |                                              **730** |
+| **POST requests**  |                                              **690** |
+| **HTTP statuses**  |                               **200, 302, 404, 500** |
+| **404 errors**     |                                               **29** |
+| **500 errors**     |                                               **19** |
+| **Pages analyzed** | `/checkout`, `/cart`, `/home`, `/login`, `/products` |
 
-Recorded observations from the project:
-
-- Total records: **1,422**
-- GET requests: **730**
-- POST requests: **690**
-- HTTP statuses: **200, 302, 404, 500**
-- 404 errors: **29**
-- 500 errors: **19**
-- Pages: `/checkout`, `/cart`, `/home`, `/login`, `/products`
 
 ## CSV Format
 
