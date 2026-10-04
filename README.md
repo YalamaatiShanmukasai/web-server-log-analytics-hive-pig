@@ -330,17 +330,17 @@ Grouping log records by HTTP method and counting requests.
 
 ![Pig HTTP Method Analysis](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(1).jpeg)
 
-### 9. Pig 4xx Client Error Analysis
+### 9. Pig 400 Client Error Analysis
 
 Filtering and displaying client-side HTTP errors such as 404 responses.
 
-![Pig 4xx Client Error Analysis](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(2).jpeg)
+![Pig 400 Client Error Analysis](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(2).jpeg)
 
-### 10. Pig 5xx Server Error Analysis
+### 10. Pig 500 Server Error Analysis
 
 Filtering and displaying server-side HTTP errors such as 500 responses.
 
-![Pig 5xx Server Error Analysis](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(3).jpeg)
+![Pig 500 Server Error Analysis](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(3).jpeg)
 
 ### 11. Pig Error Summary
 
