@@ -277,6 +277,122 @@ POST    3
 6. POST requests have a higher average response time than GET requests in this sample.
 7. Hive and Pig can be used to group and analyze web server logs efficiently.
 
+
+## Project Screenshots
+
+The repository includes the project execution screenshots uploaded as JPEG files. They provide visual evidence of the Hadoop, Pig, Hive, analysis, and project execution work.
+
+### Screenshot 1
+
+![Project Screenshot 1](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.54%20PM%20(1).jpeg)
+
+### Screenshot 2
+
+![Project Screenshot 2](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.54%20PM%20(2).jpeg)
+
+### Screenshot 3
+
+![Project Screenshot 3](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.54%20PM.jpeg)
+
+### Screenshot 4
+
+![Project Screenshot 4](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.55%20PM%20(1).jpeg)
+
+### Screenshot 5
+
+![Project Screenshot 5](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.55%20PM.jpeg)
+
+### Screenshot 6
+
+![Project Screenshot 6](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.59%20PM%20(1).jpeg)
+
+### Screenshot 7
+
+![Project Screenshot 7](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.09.59%20PM.jpeg)
+
+### Screenshot 8
+
+![Project Screenshot 8](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(1).jpeg)
+
+### Screenshot 9
+
+![Project Screenshot 9](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(2).jpeg)
+
+### Screenshot 10
+
+![Project Screenshot 10](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM%20(3).jpeg)
+
+### Screenshot 11
+
+![Project Screenshot 11](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.00%20PM.jpeg)
+
+### Screenshot 12
+
+![Project Screenshot 12](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.01%20PM%20(1).jpeg)
+
+### Screenshot 13
+
+![Project Screenshot 13](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.01%20PM%20(2).jpeg)
+
+### Screenshot 14
+
+![Project Screenshot 14](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.01%20PM%20(3).jpeg)
+
+### Screenshot 15
+
+![Project Screenshot 15](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.01%20PM.jpeg)
+
+### Screenshot 16
+
+![Project Screenshot 16](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.02%20PM%20(1).jpeg)
+
+### Screenshot 17
+
+![Project Screenshot 17](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.02%20PM%20(2).jpeg)
+
+### Screenshot 18
+
+![Project Screenshot 18](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.02%20PM%20(3).jpeg)
+
+### Screenshot 19
+
+![Project Screenshot 19](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.02%20PM.jpeg)
+
+### Screenshot 20
+
+![Project Screenshot 20](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.03%20PM%20(1).jpeg)
+
+### Screenshot 21
+
+![Project Screenshot 21](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.03%20PM%20(2).jpeg)
+
+### Screenshot 22
+
+![Project Screenshot 22](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.03%20PM%20(3).jpeg)
+
+### Screenshot 23
+
+![Project Screenshot 23](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.03%20PM.jpeg)
+
+### Screenshot 24
+
+![Project Screenshot 24](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.04%20PM%20(1).jpeg)
+
+### Screenshot 25
+
+![Project Screenshot 25](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.04%20PM%20(2).jpeg)
+
+### Screenshot 26
+
+![Project Screenshot 26](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.04%20PM.jpeg)
+
+### Screenshot 27
+
+![Project Screenshot 27](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.05%20PM.jpeg)
+
+### Screenshot 28
+
+![Project Screenshot 28](https://raw.githubusercontent.com/YalamaatiShanmukasai/web-server-log-analytics-hive-pig/main/WhatsApp%20Image%202026-10-04%20at%208.10.06%20PM.jpeg)
 ## Project Files
 
 ```text
